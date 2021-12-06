@@ -22,5 +22,5 @@ run `main.py`
 results from my tests can be found [here](https://docs.google.com/spreadsheets/d/1B-N6luLgy6glRgmO7cnVN7cbUKhdAnqsSTQD_568_n4/edit?usp=sharing). you can draw your own conclusions about the results. though here are some of my findings:
 - adding more face cards and 10s results in more ties
 - 5, 6, and 7 seem to be the worst cards to add as they increase losses
-- adding both aces, 2s, 3s, 10s and face cards results in fairer odds, meaning wins and losses are quite close.
+- adding aces, 2s, 3s, 10s and face cards results in fairer odds, meaning wins and losses are quite close.
 - 8 seems to be a great card as well
